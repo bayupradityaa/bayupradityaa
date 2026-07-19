@@ -52,7 +52,7 @@ I enjoy turning ideas into software people actually use, with a strong focus on 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST_API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+![REST_API](https://img.shields.io/badge/Fast_API-FF6C37?style=flat-square)
 
 ### Database
 
