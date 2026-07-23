@@ -96,7 +96,7 @@ I enjoy turning ideas into software people actually use, with a strong focus on 
 
 💼 **Available for** — Internship • Freelance • Collaboration
 
-🌐 **Portfolio** — https://#.com
+🌐 **Portfolio** — https://#.com (masih diupdate)
 
 💻 **GitHub** — https://github.com/bayupradityaa
 
