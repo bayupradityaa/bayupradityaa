@@ -2,7 +2,7 @@
   
 # Hi, I'm Bayu Praditya 
 
-Software Engineer · Full Stack Developer · AI Enthusiast
+Software Engineer · Web Developer · AI Enthusiast
 
 Building modern web experiences where engineering, design, and intelligent systems come together.
 
@@ -13,23 +13,11 @@ Building modern web experiences where engineering, design, and intelligent syste
 
 ## About
 
-I'm an Informatics Engineering student at Gunadarma University, focused on Software Engineering, Full Stack Development, and Artificial Intelligence.
+I'm an Informatics Engineering student at Gunadarma University, focused on Software Engineering, Web Development, and Machine Learning.
 
 Outside the classroom, I founded **CLT.Store**, a digital gaming business that taught me product thinking, customer experience, branding, and iteration.
 
 I enjoy turning ideas into software people actually use, with a strong focus on clean architecture, backend systems, and thoughtful user experiences.
-
-<br />
-
-## Currently Building
-
-📱 Interactive Web Experiences
-
-🤖 AI Sentiment Analysis
-
-🎮 CLT.Store Platform
-
-📚 Learning System Design
 
 <br />
 
