@@ -1,99 +1,154 @@
 <div align="center">
-  
-# Hi, I'm Bayu Praditya 
 
-Software Engineer · Web Developer · AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:012618&height=230&section=header&text=Hi%20👋%2C%20I'm%20Bayu%20Praditya&fontSize=32&fontColor=2ECC71&fontAlignY=34&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=15&descAlignY=63" width="100%" />
 
-Building modern web experiences where engineering, design, and intelligent systems come together.
+<a href="https://github.com/bayupradityaa">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Software+Engineering+%7C+Web+Dev+%7C+ML;Founder+%40+CLT.Store;Turning+ideas+into+software+people+use" />
+</a>
 
-📍 Bogor, Indonesia&nbsp;&nbsp;·&nbsp;&nbsp;🎓 Gunadarma University&nbsp;&nbsp;·&nbsp;&nbsp;💼 Founder @ CLT.Store
+<br/>
+
+<img src="https://img.shields.io/badge/📍-Bogor%2C_Indonesia-145A32?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎓-Gunadarma_University-145A32?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼-Founder_@_CLT.Store-145A32?style=flat-square&labelColor=0d1117" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71)](https://linkedin.com/in/bayupradityaa)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2ECC71)](https://github.com/bayupradityaa)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2ECC71)](https://instagram.com/bayuupradityaa)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2ECC71)](mailto:bayuupraditya@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=bayupradityaa&label=Profile%20Views&color=145A32&style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/bayupradityaa?label=Followers&style=flat-square&color=145A32&labelColor=0d1117" />
+
 </div>
 
-<br />
+<br/>
 
-## About
+## About Me
 
-I'm an Informatics Engineering student at Gunadarma University, focused on Software Engineering, Web Development, and Machine Learning.
+```yaml
+name: Bayu Praditya
+role: Informatics Engineering Student @ Gunadarma University
+focus: [Software Engineering, Web Development, Machine Learning]
+building: CLT.Store — a digital gaming business
+learned_from_it: [Product Thinking, Customer Experience, Branding, Iteration]
+mission: "Turning ideas into software people actually use"
+values: [Clean Architecture, Solid Backend Systems, Thoughtful UX]
+status: Open to Internship · Freelance · Collaboration
+```
 
-Outside the classroom, I founded **CLT.Store**, a digital gaming business that taught me product thinking, customer experience, branding, and iteration.
-
-I enjoy turning ideas into software people actually use, with a strong focus on clean architecture, backend systems, and thoughtful user experiences.
-
-<br />
+<br/>
 
 ## Tech Stack
 
-### Frontend
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=2ECC71)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=2ECC71)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=2ECC71)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=2ECC71)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=2ECC71)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=2ECC71)
+![Lenis](https://img.shields.io/badge/Lenis-0d1117?style=for-the-badge&logoColor=2ECC71)
 
-### Backend
+</details>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST_API](https://img.shields.io/badge/Fast_API-FF6C37?style=flat-square)
+<details>
+<summary><b>Backend</b></summary>
+<br/>
 
-### Database
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=2ECC71)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=2ECC71)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=2ECC71)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=2ECC71)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=2ECC71)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=2ECC71)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+</details>
 
-### DevOps & Tools
+<details>
+<summary><b>Database</b></summary>
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=2ECC71)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=2ECC71)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=2ECC71)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=2ECC71)
 
-### Currently Learning
+</details>
 
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Artificial_Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=flat-square)
-![Software_Architecture](https://img.shields.io/badge/Software_Architecture-4B5563?style=flat-square)
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br/>
 
-## GitHub Stats
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2ECC71)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2ECC71)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2ECC71)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=2ECC71)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=2ECC71)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=2ECC71)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=2ECC71)
+
+</details>
+
+<details>
+<summary><b>Currently Learning</b></summary>
+<br/>
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=2ECC71)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=for-the-badge&logoColor=2ECC71)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-0d1117?style=for-the-badge&logoColor=2ECC71)
+
+</details>
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayupradityaa&hide_border=true&theme=default" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bayupradityaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ECC71&icon_color=2ECC71&text_color=e6e6e6&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupradityaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=e6e6e6" width="41%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupradityaa&theme=minimal&hide_border=true" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayupradityaa&hide_border=true&background=0d1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=e6e6e6&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="65%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bayupradityaa&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
 
 </div>
 
-<br />
+<br/>
 
-## Connect with me
+## Contribution Activity
 
-📍 **Bogor, Indonesia**
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupradityaa&bg_color=0d1117&color=2ECC71&line=2ECC71&point=ffffff&hide_border=true" width="95%" />
+</div>
 
-💼 **Available for** — Internship • Freelance • Collaboration
+<br/>
 
-🌐 **Portfolio** — https://#.com (masih diupdate)
+## Featured
 
-💻 **GitHub** — https://github.com/bayupradityaa
+**CLT.Store** — a digital gaming business I founded, which taught me product thinking, customer experience, branding, and iteration through real hands-on operation.
 
-💼 **LinkedIn** — https://linkedin.com/in/bayupradityaa
+<br/>
 
-📧 **Email** — bayuupraditya@gmail.com
+## Let's Connect
 
-📷 **Instagram** — https://instagram.com/bayuupradityaa
+<div align="center">
 
-<br />
+| | |
+|---|---|
+| 📍 Location | Bogor, Indonesia |
+| 🌐 Portfolio | *coming soon* |
+| 📧 Email | [bayuupraditya@gmail.com](mailto:bayuupraditya@gmail.com) |
+| 💼 Available for | Internship · Freelance · Collaboration |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:012618,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
