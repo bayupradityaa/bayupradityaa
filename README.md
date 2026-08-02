@@ -99,4 +99,3 @@ Operating CLT.Store has strengthened my problem-solving, communication, and deci
 ---
 
 If you're building something interesting or have an internship, freelance role, or collaboration opportunity, I'd love to hear from you.
-```
