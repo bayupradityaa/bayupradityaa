@@ -1,60 +1,73 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:012618&height=180&section=header&text=Bayu%20Praditya&fontSize=40&fontColor=2ECC71&fontAlignY=42&animation=twinkling" width="100%" alt="Bayu Praditya" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=2ECC71&center=true&vCenter=true&width=640&height=28&lines=Software+Engineer+%26+Web+Developer;Informatics+student+at+Gunadarma+University;Founder+of+CLT.Store+%E2%80%94+a+digital+gaming+store;Open+to+internship%2C+freelance+%26+collaboration" alt="Software Engineer & Web Developer · Informatics student at Gunadarma University · Founder of CLT.Store · Open to internship, freelance & collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=2ECC71&center=true&vCenter=true&width=640&height=28&lines=Full-Stack+Web+Developer;QA+Engineer+%26+SDET+Enthusiast;Informatics+Student+at+Gunadarma;Founder+of+CLT.Store;Open+to+Internship+%26+Collaboration" alt="Typing Header" />
 
 </div>
 
-**Software Engineer & Web Developer** — Informatics student at Gunadarma University, based in Bogor, Indonesia. I founded **CLT.Store**, a digital gaming store I run end-to-end, and I'm open to internships, freelance work, and collaboration.
+**Software Engineer & QA Enthusiast** — Informatics student at Gunadarma University (Semester 7), based in Bogor, Indonesia. With a foundation in Computer Network Engineering (TKJ) and Full-Stack Web Development, I am pivoting towards **Software Quality Assurance (QA) & SDET**. I also run **CLT.Store**, an independent digital gaming platform.
 
 ---
 
-# About
+# About Me
 
-I study Informatics at Gunadarma University and spend most of my time shipping web products—from the interface down to the database. Running CLT.Store alongside my studies means I work with real users, real payments, and real constraints, not just coursework. Lately I've been digging into applied machine learning and scalable backend architecture.
-
-- 📍 **Location** — Bogor, Indonesia
-- 🎓 **Campus** — Informatics Engineering, Gunadarma University
-- 💻 **Focus** — Software Engineering & Web Development
-- 🤝 **Open to** — Internship · Freelance · Collaboration
-
----
-
-# Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,go,python,postgres,mysql,git,docker,figma&theme=dark" />
-</p>
-
-<p align="center">
-Currently exploring <b>Applied Machine Learning</b> and <b>Software Architecture</b>.
-</p>
-
----
-## Business Experience
-
-### 🎮 CLT.Store
-
-**Founder & Operator (2023 – Present)**
-
-CLT.Store is a digital gaming services business that I founded and manage independently, providing game top-up services, account boosting (joki), and other digital gaming products for customers across Indonesia.
-
-Building this business has given me hands-on experience beyond software development, including:
-
-- Managing daily business operations and customer support
-- Handling digital payments and order fulfillment
-- Building customer trust and maintaining service quality
-- Marketing through social media and online communities
-- Solving operational problems under real business constraints
-- Continuously improving services based on customer feedback
-
-Operating CLT.Store has strengthened my problem-solving, communication, and decision-making skills while giving me practical experience running an online business from end to end.
+- **Education**: B.S. in Informatics Engineering, Gunadarma University (*Penulisan Ilmiah Defense Completed*)
+- **Background**: Vocational High School (SMK) in Computer Network Engineering (TKJ). Strong foundation in networking, IP routing, and system architecture.
+- **Current Focus**: Software Testing (Manual & Automated API/Web Testing), Scalable Web Architecture, and Applied Machine Learning.
+- **Entrepreneurship**: Founder & Operator of **CLT.Store** (Managing end-to-end digital game top-up operations & user support since 2022).
+- **Location**: Bogor, West Java, Indonesia
+- **Open to**: QA / Software Engineering Internships, Freelance Projects & Tech Collaborations
 
 ---
 
-# GitHub Stats
+# Tech Stack & Tools
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, C++, HTML/CSS |
+| **Frontend** | React.js, Next.js, Vite, Tailwind CSS |
+| **Backend & DB** | Node.js, Express.js, Supabase, PostgreSQL, MySQL |
+| **QA & Testing** | Postman (API Testing), Cypress, Playwright, Manual Testing & Test Case Design |
+| **Data & ML** | OpenCV, Matplotlib, NumPy, Pandas |
+| **DevOps & Infra** | Git, GitHub, Vercel, Docker, Figma, Networking (Winbox/RouterOS) |
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,supabase,python,postgres,mysql,postman,git,docker,figma&theme=dark" />
+
+</div>
+
+---
+
+# Featured Projects
+
+### E-Commerce Merch Platform
+*Full-stack web application designed for specialized merchandise transactions.*
+- **Tech Stack**: React, TypeScript, Supabase, Tailwind CSS, Vercel
+- **QA/Testing Focus**: Designed functional test cases, handled edge cases for checkout flows, and validated API responses for payment & logistics integration.
+
+### Digital Image Processing & ML Pipeline
+*Python-based computer vision scripts focusing on image analysis and color manipulation.*
+- **Tech Stack**: Python, OpenCV, Matplotlib
+- **Features**: Grayscale conversion, contrast adjustment, and RGB channel extraction.
+
+---
+
+# Experience
+
+### CLT.Store — Founder & Operator *(2022 – Present)*
+An end-to-end digital gaming services platform specializing in automated top-ups and boosting services.
+
+- **System Reliability**: Managed platform maintenance downtime, supplier API failures, and transaction reconciliations under real business constraints.
+- **Operations & Security**: Handled daily fulfillment, digital payment security, customer conflict resolution, and fraud prevention.
+- **Product Growth**: Conducted market research, user interface design, and service optimizations based on direct customer feedback.
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
@@ -95,7 +108,3 @@ Operating CLT.Store has strengthened my problem-solving, communication, and deci
 </a>
 
 </div>
-
----
-
-If you're building something interesting or have an internship, freelance role, or collaboration opportunity, I'd love to hear from you.
