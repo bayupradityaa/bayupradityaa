@@ -1,11 +1,12 @@
-<img align="right" height="24" src="https://komarev.com/ghpvc/?username=bayupradityaa&amp;label=Profile+Views&amp;color=FFD177&amp;style=flat-square&amp;labelColor=0d1117" alt="Profile Views"/>
+<img align="right" height="24" src="https://komarev.com/ghpvc/?username=bayupradityaa&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
 <br clear="right"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1400,100:332800&amp;height=200&amp;section=header&amp;text=Bayu%20Praditya&amp;fontSize=42&amp;fontColor=FFD177&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=Software%20Engineer%20%7C%20QA%20%26%20SDET&amp;descSize=16&amp;descColor=c9d1d9&amp;descAlignY=58" width="100%" alt="Bayu Praditya" />
+<h1 align="center">Bayu Praditya</h1>
+<h4 align="center">Software Engineer | QA & SDET</h4>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1200&amp;color=FFD177&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=30&amp;lines=Building+reliable+software%2C+one+test+at+a+time;SDET+%26+Test+Automation+Engineer;Informatics+%40+Gunadarma+University;Founder+of+CLT.Store+since+2022;Open+to+Internship+%26+Collaboration" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+reliable+software%2C+one+test+at+a+time;SDET+%26+Test+Automation+Engineer;Informatics+%40+Gunadarma+University;Founder+of+CLT.Store+since+2022;Open+to+Internship+%26+Collaboration" alt="Typing Header" />
 
 <br>
 
@@ -13,17 +14,15 @@
 
 <br><br>
 
-<a href="https://bayupradityaa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-FFD177?style=for-the-badge&amp;labelColor=0d1117"/></a>&nbsp;
-<a href="mailto:bayuupraditya@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&amp;labelColor=0d1117"/></a>&nbsp;
-<a href="https://linkedin.com/in/bayupradityaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&amp;labelColor=0d1117"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-FFD177?style=for-the-badge&labelColor=0d1117)](https://bayupradityaa.vercel.app/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:bayuupraditya@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/bayupradityaa)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
-<img src="./assets/line.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/tabler:user.svg?color=%23FFD177" width="22" valign="bottom"/> About Me
+## <img src="https://api.iconify.design/tabler:user-star.svg?color=%23FFD177" width="22" valign="bottom"/> About Me & Featured Experience
 
 ```js
 const bayu = {
@@ -36,188 +35,99 @@ const bayu = {
         "Applied Machine Learning",
         "Scalable Web Architecture"
     ],
-    building:     "CLT.Store — digital gaming top-up platform (since 2022)",
+    featuredWork: "Founder & Engineer @ CLT.Store (since 2022)",
     openTo:       ["Internships", "Freelance Work", "Collaboration"]
 };
 ```
 
+> 💡 **Bridging Engineering & Business:**
+> Since 2022, alongside my full-time studies, I have been building and operating **CLT.Store**—an independent digital gaming platform. Owning every layer from UI/UX design to full-stack development, QA testing, and customer service has taught me that writing code is only half the battle. **Testing in production with real revenue on the line has accelerated my QA/SDET mindset faster than any course ever could.**
+
 <details>
-<summary><b><img src="https://api.iconify.design/tabler:message-circle.svg?color=%23FFD177" width="15" valign="middle"/>&nbsp; Ask me about</b></summary>
+<summary><b>💬 Ask me about my journey & what it taught me</b></summary>
 <br>
 
-| Topic | What I can share |
+| Area | What I can share |
 | :--- | :--- |
-| **Testing** | Writing test cases that actually catch bugs before users do |
-| **API Testing** | Postman collections, Cypress/Playwright automation strategies |
-| **Career Pivot** | Going from networking (routing, IP, RouterOS) to full-stack dev |
-| **Solo Founder** | Running a real digital business while studying full-time |
+| **Testing & QA Mindset** | Writing test cases that actually catch bugs before users do (Cypress, Playwright, Postman). |
+| **System Reliability** | Managing platform downtime, handling 3rd-party API failures, and transaction reconciliations. |
+| **Product Growth** | Conducting market research, UI design, and service optimizations based on direct customer feedback. |
+| **Career Pivot** | Going from networking (routing, IP, RouterOS) to full-stack dev and SDET. |
+| **Solo Founder** | Running a profitable digital business and handling real customers while studying full-time. |
 
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
-<img src="./assets/line.svg" width="100%"/>
+## <img src="https://api.iconify.design/tabler:tools.svg?color=%23FFD177" width="22" valign="bottom"/> Tech Stack & Tools
 
-## <img src="https://api.iconify.design/tabler:tools.svg?color=%23FFD177" width="22" valign="bottom"/> Tech Stack &amp; Tools
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%23FFD177" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23FFD177" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%23FFD177" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:go.svg?color=%23FFD177" width="42" height="42" alt="Go" title="Go" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:react.svg?color=%23FFD177" width="42" height="42" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%23FFD177" width="42" height="42" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23FFD177" width="42" height="42" alt="Next.js" title="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:vite.svg?color=%23FFD177" width="42" height="42" alt="Vite" title="Vite" />
+  <br><br>
+  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%23FFD177" width="42" height="42" alt="TailwindCSS" title="TailwindCSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23FFD177" width="42" height="42" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:express.svg?color=%23FFD177" width="42" height="42" alt="Express" title="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:laravel.svg?color=%23FFD177" width="42" height="42" alt="Laravel" title="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23FFD177" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%23FFD177" width="42" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:postman.svg?color=%23FFD177" width="42" height="42" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:cypress.svg?color=%23FFD177" width="42" height="42" alt="Cypress" title="Cypress" />
+  <br><br>
+  <img src="https://api.iconify.design/simple-icons:playwright.svg?color=%23FFD177" width="42" height="42" alt="Playwright" title="Playwright" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:jupyter.svg?color=%23FFD177" width="42" height="42" alt="Jupyter" title="Jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:opencv.svg?color=%23FFD177" width="42" height="42" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%23FFD177" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23FFD177" width="42" height="42" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:scikitlearn.svg?color=%23FFD177" width="42" height="42" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FFD177" width="42" height="42" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23FFD177" width="42" height="42" alt="PyTorch" title="PyTorch" />
+  <br><br>
+  <img src="https://api.iconify.design/simple-icons:keras.svg?color=%23FFD177" width="42" height="42" alt="Keras" title="Keras" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:git.svg?color=%23FFD177" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFD177" width="42" height="42" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFD177" width="42" height="42" alt="Vercel" title="Vercel" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:docker.svg?color=%23FFD177" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:figma.svg?color=%23FFD177" width="42" height="42" alt="Figma" title="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:mikrotik.svg?color=%23FFD177" width="42" height="42" alt="RouterOS" title="RouterOS" />
+</p>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="140">
-
-**Languages**<br><br>
-<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="40"/><br><sub>TypeScript</sub><br>
-<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="40"/><br><sub>JavaScript</sub><br>
-<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="40"/><br><sub>Python</sub><br>
-<img src="https://skillicons.dev/icons?i=go&amp;theme=dark" width="40"/><br><sub>Golang</sub>
-
-</td>
-<td align="center" width="140">
-
-**Frontend**<br><br>
-<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="40"/><br><sub>React</sub><br>
-<img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="40"/><br><sub>Next.js</sub><br>
-<img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="40"/><br><sub>Vite</sub><br>
-<img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="40"/><br><sub>Tailwind</sub>
-
-</td>
-<td align="center" width="140">
-
-**Backend &amp; DB**<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="40"/><br><sub>Node.js</sub><br>
-<img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="40"/><br><sub>Express</sub><br>
-<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="40"/><br><sub>PostgreSQL</sub><br>
-<img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="40"/><br><sub>MySQL</sub>
-
-</td>
-<td align="center" width="140">
-
-**QA &amp; Testing**<br><br>
-<img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="40"/><br><sub>Postman</sub><br>
-<img src="https://skillicons.dev/icons?i=cypress&amp;theme=dark" width="40"/><br><sub>Cypress</sub><br>
-<img src="https://skillicons.dev/icons?i=selenium&amp;theme=dark" width="40"/><br><sub>Playwright</sub><br>
-<img src="https://api.iconify.design/tabler:test-pipe.svg?color=%23FFD177" width="40"/><br><sub>Manual QA</sub>
-
-</td>
-<td align="center" width="140">
-
-**DevOps &amp; Tools**<br><br>
-<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="40"/><br><sub>Git</sub><br>
-<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="40"/><br><sub>Docker</sub><br>
-<img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="40"/><br><sub>Vercel</sub><br>
-<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="40"/><br><sub>Figma</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="./assets/line.svg" width="100%"/>
+---
 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="22" valign="bottom"/> GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bayupradityaa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD177&amp;icon_color=FFD177&amp;text_color=c9d1d9&amp;ring_color=FFD177&amp;include_all_commits=true&amp;count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupradityaa&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD177&amp;text_color=c9d1d9&amp;langs_count=8" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=bayupradityaa&amp;theme=github-dark&amp;hide_border=true&amp;background=0D1117&amp;ring=FFD177&amp;fire=FFD177&amp;currStreakLabel=FFD177&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=FFD177&amp;sideNums=FFD177"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupradityaa&amp;bg_color=0d1117&amp;color=FFD177&amp;line=FFD177&amp;point=c9d1d9&amp;area=true&amp;area_color=1a1400&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayupradityaa&amp;theme=github_dark" width="95%"/>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bayupradityaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayupradityaa&amp;theme=github_dark" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayupradityaa&amp;theme=github_dark" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayupradityaa&amp;theme=github_dark&amp;utcOffset=7" height="160"/>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayupradityaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook,cobol,html,css)
+![Streak](https://streak-stats.demolab.com?user=bayupradityaa&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)
 
-<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bayupradityaa&amp;theme=onestar&amp;no-frame=true&amp;row=1&amp;margin-w=12&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues"/>
+![Snake](https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="./assets/line.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/tabler:building-store.svg?color=%23FFD177" width="22" valign="bottom"/> CLT.Store — Spotlight
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Founder%20%26%20Operator-FFD177?style=for-the-badge&amp;labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Since-2022-FFD177?style=for-the-badge&amp;labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Digital%20Gaming%20Platform-FFD177?style=for-the-badge&amp;labelColor=0d1117"/>
-
-</div>
-
-<br>
-
-> *Since 2022, I've been building and running an independent business alongside my studies — a top-up and boosting service for online games like Mobile Legends. I own every layer: design, data, research, development, customer service, and sales reporting.*
-
-<details>
-<summary><b><img src="https://api.iconify.design/tabler:bulb.svg?color=%23FFD177" width="15" valign="middle"/>&nbsp; What running it actually taught me</b></summary>
-<br>
-
-| Area | Lesson |
-| :--- | :--- |
-| **System Reliability** | Managed platform downtime, supplier API failures, and transaction reconciliations under real business constraints |
-| **Operations &amp; Security** | Handled daily fulfillment, digital payment security, customer conflict resolution, and fraud prevention |
-| **Product Growth** | Conducted market research, UI design, and service optimizations based on direct customer feedback |
-| **Quality Mindset** | Testing in production when your own money is on the line teaches you QA faster than any course |
-
-</details>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="./assets/line.svg" width="100%"/>
+---
 
 ## <img src="https://api.iconify.design/tabler:mail.svg?color=%23FFD177" width="22" valign="bottom"/> Contact
 
 <div align="center">
 
-<a href="https://linkedin.com/in/bayupradityaa">
-<img src="https://img.shields.io/badge/LinkedIn-in%2Fbayupradityaa-FFD177?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFD177&amp;labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://github.com/bayupradityaa">
-<img src="https://img.shields.io/badge/GitHub-%40bayupradityaa-FFD177?style=for-the-badge&amp;logo=github&amp;logoColor=FFD177&amp;labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://instagram.com/bayuupradityaa">
-<img src="https://img.shields.io/badge/Instagram-%40bayuupradityaa-FFD177?style=for-the-badge&amp;logo=instagram&amp;logoColor=FFD177&amp;labelColor=0d1117"/>
-</a>&nbsp;
-<a href="mailto:bayuupraditya@gmail.com">
-<img src="https://img.shields.io/badge/Email-bayuupraditya%40gmail.com-FFD177?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFD177&amp;labelColor=0d1117"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fbayupradityaa-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117)](https://linkedin.com/in/bayupradityaa)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%40bayupradityaa-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/bayupradityaa)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%40bayuupradityaa-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/bayuupradityaa)&nbsp;
+[![Email](https://img.shields.io/badge/Email-bayuupraditya%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:bayuupraditya@gmail.com)
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1400,50:332800,100:0d1117&amp;height=120&amp;section=footer" width="100%" />
-
-</div>
