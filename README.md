@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-FFD177?style=for-the-badge&labelColor=0d1117)](https://bayupradityaa.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-FFD177?style=for-the-badge&labelColor=0d1117)](https://www.bayupraditya.tech//)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:bayuupraditya@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/bayupradityaa)
 
