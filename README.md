@@ -4,7 +4,7 @@
 <div align="center">
 
 <h1 align="center">Bayu Praditya</h1>
-<h4 align="center">Software Engineer | QA & SDET</h4>
+<h4 align="center">Software Engineer | AI & QA Enthusiast </h4>
 
 <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+reliable+software%2C+one+test+at+a+time;SDET+%26+Test+Automation+Engineer;Informatics+%40+Gunadarma+University;Founder+of+CLT.Store+since+2022;Open+to+Internship+%26+Collaboration" alt="Typing Header" />
 
