@@ -1,138 +1,156 @@
-<img align="right" height="24" src="https://komarev.com/ghpvc/?username=bayupradityaa&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
-<br clear="right"/>
+<img align="right" height="24" src="https://komarev.com/ghpvc/?username=bayupradityaa&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+<br clear="right" />
+
+<!-- ============================== HERO ============================== -->
 
 <div align="center">
 
-  <h1 align="center">Bayu Praditya</h1>
-  <p align="center">
-    <b>Full-Stack Software Engineer &nbsp;·&nbsp; SDET & QA Automation &nbsp;·&nbsp; Applied AI Enthusiast</b>
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFD177,100:F0A500&section=header&text=Bayu%20Praditya&fontSize=52&fontColor=0D1117&fontAlignY=40&animation=fadeIn" alt="Bayu Praditya" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=650&height=28&lines=Engineering+resilient+software%2C+validated+by+automated+tests;Full-Stack+Web+Developer+%26+SDET;Founder+%26+Lead+Engineer+at+CLT.Store+(Since+2022);B.S.+in+Informatics+%40+Gunadarma+University;Open+for+Software+Engineering+%26+SDET+Opportunities" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=660&height=28&lines=Engineering+resilient+software%2C+validated+by+automated+tests;Full-Stack+Engineer+%26+SDET;Founder+%26+Lead+Engineer+at+CLT.Store+(Since+2022);B.S.+in+Informatics+%40+Gunadarma+University;Open+for+Software+Engineering+%26+SDET+Opportunities" alt="Typing Taglines" />
 
   <br><br>
 
-  <img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" width="15" valign="middle"/>&nbsp;Bogor, Indonesia &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" width="15" valign="middle"/>&nbsp;Informatics, Gunadarma University &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/tabler:briefcase.svg?color=%23FFD177" width="15" valign="middle"/>&nbsp;Founder @ CLT.Store
+  📍 Bogor, Indonesia &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 Informatics, Gunadarma University &nbsp;&nbsp;·&nbsp;&nbsp; 💼 Founder @ CLT.Store
 
   <br><br>
 
-  <a href="https://www.bayupraditya.tech">
-    <img src="https://img.shields.io/badge/Portfolio-bayupraditya.tech-FFD177?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/bayupradityaa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:bayuupraditya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-FFD177?style=flat-square&labelColor=161B22" alt="Open to Opportunities" />
+
+  <br><br>
+
+  <a href="https://www.bayupraditya.tech"><img src="https://img.shields.io/badge/Portfolio-bayupraditya.tech-FFD177?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/bayupradityaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bayuupraditya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
-<br>
-
 ---
 
-## <img src="https://api.iconify.design/tabler:terminal-2.svg?color=%23FFD177" width="22" valign="bottom"/> Executive Profile
+## 🧑‍💻 Profile Snapshot
+
+<table>
+<tr>
+<td width="52%" valign="top">
+<b>🧭 Who I Am</b><br><br>
+🔹 Full-stack engineer shipping <b>production-grade web platforms</b> end-to-end<br>
+🔹 SDET mindset — every release is guarded by <b>automated E2E &amp; API tests</b><br>
+🔹 Founder of <b>CLT.Store</b>, live since <b>2022</b><br>
+🔹 Networking foundation — TCP/IP, routing, <b>MikroTik RouterOS</b>, <b>Docker</b><br>
+🔹 Exploring <b>applied AI &amp; computer vision</b> for real products
+</td>
+<td width="48%" valign="top">
+<b>🚀 Now</b><br><br>
+🔭 Founder Business &amp; QA at <b>CLT.Store</b><br>
+🛠️ Hardening <b>payment flows</b> &amp; third-party API resilience<br>
+🤖 Prototyping <b>AI-powered</b> product features<br>
+🌱 Deep-diving <b>test automation at scale</b><br>
+📬 Open to <b>SDET &amp; Software Engineering</b> roles
+</td>
+</tr>
+</table>
 
 ```ts
 interface EngineerProfile {
-  name: string;
+  identity: string;
   education: string;
-  coreDisciplines: string[];
-  productionExperience: {
-    venture: string;
+  disciplines: string[];
+  venture: {
+    name: string;
+    since: number;
     role: string;
-    focus: string[];
+    responsibilities: string[];
   };
-  availability: string[];
+  currentlyExploring: string[];
+  openTo: string[];
 }
 
 const bayuPraditya: EngineerProfile = {
-  name: "Bayu Praditya",
+  identity: "Full-Stack Engineer & SDET",
   education: "B.S. in Informatics — Gunadarma University",
-  coreDisciplines: [
+  disciplines: [
     "Full-Stack Web Engineering",
-    "End-to-End & API Test Automation (SDET)",
+    "End-to-End & API Test Automation",
     "Applied Machine Learning & Computer Vision"
   ],
-  productionExperience: {
-    venture: "CLT.Store (Est. 2022)",
-    role: "Founder, Full-Stack & QA Engineer",
-    focus: ["High-Reliability Payment Flows", "3rd-Party API Resilience", "Automated QA"]
+  venture: {
+    name: "CLT.Store",
+    since: 2022,
+    role: "Founder · Lead Engineer · QA Owner",
+    responsibilities: [
+      "High-reliability payment flows",
+      "3rd-party API resilience & reconciliation",
+      "Automated QA pipelines"
+    ]
   },
-  availability: ["Internships", "Full-Time / Contract Roles", "Technical Collaboration"]
+  currentlyExploring: [
+    "AI-assisted test automation",
+    "Computer vision in production",
+    "Fault-tolerant system design"
+  ],
+  openTo: ["Internships", "Full-time & contract roles", "Technical collaboration"]
 };
 ```
 
 <details>
-<summary><b>🔎 Lihat Fokus Rekayasa & Studi Kasus Pengalaman Saya</b></summary>
+<summary><b>🔎 Engineering Focus — production case experience</b></summary>
 <br>
 
-| Domain | Praktik & Implementasi Nyata |
+| Domain | Practice in Production |
 | :--- | :--- |
-| **QA & Test Automation** | Merancang skenario pengujian E2E dan API (*Cypress, Playwright, Postman*) untuk mendeteksi regresi sebelum rilis ke pengguna. |
-| **System Reliability** | Menangani *fault-tolerance* pada kegagalan API pihak ketiga, *rate-limiting*, serta rekonsiliasi transaksi otomatis. |
-| **Full-Stack Architecture** | Mengembangkan antarmuka web modern yang responsif dan *backend* yang skalabel dengan pendekatan *clean architecture*. |
-| **Network & Infrastructure** | Fondasi kuat di bidang *Computer Network Engineering* (Routing, TCP/IP, MikroTik RouterOS, Dockerization). |
+| **QA & Test Automation** | Designs E2E & API test scenarios (*Cypress, Playwright, Postman*) that catch regressions before they reach users. |
+| **System Reliability** | Fault-tolerance for third-party API failures, rate-limiting strategies, and automated transaction reconciliation. |
+| **Full-Stack Architecture** | Modern responsive interfaces backed by scalable services, built with a clean-architecture approach. |
+| **Network & Infrastructure** | Solid Computer Network Engineering foundation — routing, TCP/IP, MikroTik RouterOS, Dockerization. |
 
 </details>
 
 ---
 
-## <img src="https://api.iconify.design/tabler:layers-intersect.svg?color=%23FFD177" width="22" valign="bottom"/> Technical Arsenal
+## 🧰 Tech
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=FFD177) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=FFD177) ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=FFD177) ![Go](https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=FFD177) |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=FFD177) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFD177) ![Vue.js](https://img.shields.io/badge/Vue.js-161B22?style=flat-square&logo=vuedotjs&logoColor=FFD177) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=FFD177) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=FFD177) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=FFD177) |
+| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=FFD177) ![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=FFD177) ![Laravel](https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=FFD177) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=FFD177) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=FFD177) |
+| **QA & Test Automation** | ![Playwright](https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=FFD177) ![Cypress](https://img.shields.io/badge/Cypress-161B22?style=flat-square&logo=cypress&logoColor=FFD177) ![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FFD177) |
+| **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=FFD177) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FFD177) ![Keras](https://img.shields.io/badge/Keras-161B22?style=flat-square&logo=keras&logoColor=FFD177) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-161B22?style=flat-square&logo=scikitlearn&logoColor=FFD177) ![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=FFD177) ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=FFD177) ![NumPy](https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=FFD177) ![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=FFD177) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=FFD177) ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=FFD177) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=FFD177) ![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFD177) ![MikroTik](https://img.shields.io/badge/MikroTik-161B22?style=flat-square&logo=mikrotik&logoColor=FFD177) |
+
+---
+
+## 📊 GitHub Telemetry
 
 <div align="center">
 
-| Domain | Technologies & Tools |
-| :--- | :---: |
-| **Languages** | <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%23FFD177" width="32" height="32" title="TypeScript" alt="TypeScript"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23FFD177" width="32" height="32" title="JavaScript" alt="JavaScript"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:python.svg?color=%23FFD177" width="32" height="32" title="Python" alt="Python"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:go.svg?color=%23FFD177" width="32" height="32" title="Go" alt="Go"/> |
-| **Frontend & UI** | <img src="https://api.iconify.design/simple-icons:react.svg?color=%23FFD177" width="32" height="32" title="React" alt="React"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23FFD177" width="32" height="32" title="Next.js" alt="Next.js"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%23FFD177" width="32" height="32" title="Vue.js" alt="Vue.js"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%23FFD177" width="32" height="32" title="Tailwind CSS" alt="Tailwind CSS"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:vite.svg?color=%23FFD177" width="32" height="32" title="Vite" alt="Vite"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:figma.svg?color=%23FFD177" width="32" height="32" title="Figma" alt="Figma"/> |
-| **Backend & Database** | <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23FFD177" width="32" height="32" title="Node.js" alt="Node.js"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:express.svg?color=%23FFD177" width="32" height="32" title="Express" alt="Express"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:laravel.svg?color=%23FFD177" width="32" height="32" title="Laravel" alt="Laravel"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23FFD177" width="32" height="32" title="PostgreSQL" alt="PostgreSQL"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%23FFD177" width="32" height="32" title="MySQL" alt="MySQL"/> |
-| **QA & Test Automation** | <img src="https://api.iconify.design/simple-icons:playwright.svg?color=%23FFD177" width="32" height="32" title="Playwright" alt="Playwright"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:cypress.svg?color=%23FFD177" width="32" height="32" title="Cypress" alt="Cypress"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:postman.svg?color=%23FFD177" width="32" height="32" title="Postman" alt="Postman"/> |
-| **AI & Data Science** | <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23FFD177" width="32" height="32" title="PyTorch" alt="PyTorch"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FFD177" width="32" height="32" title="TensorFlow" alt="TensorFlow"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:keras.svg?color=%23FFD177" width="32" height="32" title="Keras" alt="Keras"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:scikitlearn.svg?color=%23FFD177" width="32" height="32" title="Scikit-Learn" alt="Scikit-Learn"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:opencv.svg?color=%23FFD177" width="32" height="32" title="OpenCV" alt="OpenCV"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23FFD177" width="32" height="32" title="Pandas" alt="Pandas"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%23FFD177" width="32" height="32" title="NumPy" alt="NumPy"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:jupyter.svg?color=%23FFD177" width="32" height="32" title="Jupyter" alt="Jupyter"/> |
-| **DevOps & Infra** | <img src="https://api.iconify.design/simple-icons:docker.svg?color=%23FFD177" width="32" height="32" title="Docker" alt="Docker"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:git.svg?color=%23FFD177" width="32" height="32" title="Git" alt="Git"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFD177" width="32" height="32" title="GitHub Actions / GitHub" alt="GitHub"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFD177" width="32" height="32" title="Vercel" alt="Vercel"/> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:mikrotik.svg?color=%23FFD177" width="32" height="32" title="MikroTik RouterOS" alt="RouterOS"/> |
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bayupradityaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=C9D1D9&ring_color=FFD177&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bayupradityaa&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFD177&sideNums=FFD177" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupradityaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook,cobol,html,css" alt="Top Languages" />
+
+  <br><br>
+
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bayupradityaa&bg_color=0D1117&color=C9D1D9&line=FFD177&point=FFD177&area=true&area_color=5C4510&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+
+  <br><br>
+
+  <img width="98%" src="https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/tabler:chart-dots-3.svg?color=%23FFD177" width="22" valign="bottom"/> GitHub Telemetry
-
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayupradityaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=bayupradityaa&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177" alt="GitHub Streak" />
+  <h3>🤝 Let's Build Reliable Software Together</h3>
+
+  <p>Terbuka untuk diskusi seputar <b>Full-Stack Engineering</b>, <b>Test Automation (SDET)</b>, atau kolaborasi proyek — silakan hubungi saya kapan saja.</p>
+
+  <a href="https://www.bayupraditya.tech"><img src="https://img.shields.io/badge/Website-bayupraditya.tech-FFD177?style=flat-square&logo=google-chrome&logoColor=FFD177&labelColor=0d1117" alt="Website" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/bayupradityaa"><img src="https://img.shields.io/badge/LinkedIn-in%2Fbayupradityaa-FFD177?style=flat-square&logo=linkedin&logoColor=FFD177&labelColor=0d1117" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/bayuupradityaa"><img src="https://img.shields.io/badge/Instagram-%40bayuupradityaa-FFD177?style=flat-square&logo=instagram&logoColor=FFD177&labelColor=0d1117" alt="Instagram" /></a>&nbsp;&nbsp;<a href="mailto:bayuupraditya@gmail.com"><img src="https://img.shields.io/badge/Email-bayuupraditya%40gmail.com-FFD177?style=flat-square&logo=gmail&logoColor=FFD177&labelColor=0d1117" alt="Email" /></a>
 
   <br><br>
 
-  <img height="145" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayupradityaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook,cobol,html,css" alt="Top Languages" />
-
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/bayupradityaa/bayupradityaa/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-  <h3><img src="https://api.iconify.design/tabler:messages.svg?color=%23FFD177" width="22" valign="bottom"/> Let's Build Reliable Software Together</h3>
-  <p>Terbuka untuk diskusi seputar <b>Full-Stack Engineering</b>, <b>Test Automation (SDET)</b>, atau kolaborasi proyek.</p>
-
-  <a href="https://www.bayupraditya.tech">
-    <img src="https://img.shields.io/badge/Website-bayupraditya.tech-FFD177?style=flat-square&logo=google-chrome&logoColor=FFD177&labelColor=0d1117" alt="Website" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/bayupradityaa">
-    <img src="https://img.shields.io/badge/LinkedIn-in%2Fbayupradityaa-FFD177?style=flat-square&logo=linkedin&logoColor=FFD177&labelColor=0d1117" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/bayuupradityaa">
-    <img src="https://img.shields.io/badge/Instagram-%40bayuupradityaa-FFD177?style=flat-square&logo=instagram&logoColor=FFD177&labelColor=0d1117" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:bayuupraditya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bayuupraditya%40gmail.com-FFD177?style=flat-square&logo=gmail&logoColor=FFD177&labelColor=0d1117" alt="Email" />
-  </a>
+  <i>"Resilience isn't an afterthought — it's the release criterion."</i>
 
 </div>
